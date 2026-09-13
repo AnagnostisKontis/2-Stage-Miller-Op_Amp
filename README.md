@@ -39,13 +39,13 @@ All simulations and validations were performed in **LTspice**.
 
 ### Schematic
 
-![System Schematic](images/2-stage-Miller_op-Amp.png)
+![System Schematic](images/2-stage-Miller_op-Amp.jpg)
 
 ### Transient Analysis
 The system was evaluated with the use of a weak 1mV input signal to verify the circuit's gain.
 
 ### Negative Feedback (at different temperatures)
-![Waveforms](images/2-stage-Miller_op-Amp_tran_temperature_Negative_feedback.png)
+![Waveforms](images/2-stage-Miller_op-Amp_tran_temperature_Negative_feedback.jpg)
 
 - **Green Trace:** Amplified Output Signal at -40C
 - **Blue Trace:** Amplified Output Signal at 25C
@@ -55,7 +55,7 @@ The system was evaluated with the use of a weak 1mV input signal to verify the c
 ### AC Analysis
 
 ### Open Loop (at different temperatures)
-![Waveforms](images/2-stage-Miller_op-Amp_AC_Analysis_temperature.png)
+![Waveforms](images/2-stage-Miller_op-Amp_AC_Analysis_temperature.jpg)
 
 - **Green Trace:** Gain at -40C
 - **Blue Trace:** Gain at 25C
@@ -63,7 +63,7 @@ The system was evaluated with the use of a weak 1mV input signal to verify the c
 - **Light Blue Trace:** Gain at 125C
   
 ### Negative Feedback (at different temperatures)
-![Waveforms](images/2-stage-Miller_op-Amp_AC_Analysis_temperature_Negative_feedback.png)
+![Waveforms](images/2-stage-Miller_op-Amp_AC_Analysis_temperature_Negative_feedback.jpg)
 
 - **Green Trace:** Gain at -40C
 - **Blue Trace:** Gain at 25C
@@ -71,13 +71,13 @@ The system was evaluated with the use of a weak 1mV input signal to verify the c
 - **Light Blue Trace:** Gain at 125C
 
 ### Open Loop Gain As a function of temperature
-![Waveforms](images/Symmetrical_OTA_gain_temperature_open_loop.png)
+![Waveforms](images/Symmetrical_OTA_gain_temperature_open_loop.jpg)
 
 ### Negative Feedback Gain As a function of temperature
-![Waveforms](images/2-stage-Miller_op-Amp_gain_temperature_Negative_feedback.png)
+![Waveforms](images/2-stage-Miller_op-Amp_gain_temperature_Negative_feedback.jpg)
 
 ### Consumption
-![Waveforms](images/2-stage-Miller_op-Amp_gain_temperature_Negative_feedback.png)
+![Waveforms](images/2-stage-Miller_op-Amp_Consumption.jpg)
 
 
 ---
