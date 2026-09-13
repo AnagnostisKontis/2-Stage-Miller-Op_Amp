@@ -71,7 +71,7 @@ The system was evaluated with the use of a weak 1mV input signal to verify the c
 - **Light Blue Trace:** Gain at 125C
 
 ### Open Loop Gain As a function of temperature
-![Waveforms](images/Symmetrical_OTA_gain_temperature_open_loop.jpg)
+![Waveforms](images/2-stage-Miller_op-Amp_gain_temperature.jpg)
 
 ### Negative Feedback Gain As a function of temperature
 ![Waveforms](images/2-stage-Miller_op-Amp_gain_temperature_Negative_feedback.jpg)
