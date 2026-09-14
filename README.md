@@ -1,7 +1,7 @@
 
 # 1.8V Non Inverting 2 Stage CMOS Miller Op-Amp 
 
-A complete transistor-level 2 Stage CMOS Miller Op-Amp design. The circuit receives a weak 1kHz sine with 1mV Amplitude, amplifies it with 106dB open loop gain  or 55.1dB negative feedback gain (600mV Amplitude, 1kΩ/300kΩ resistor Pair). A NMOS Current Mirror provides the circuit with 16μΑ. One additional Current Mirrors is used (PMOS), to convert the circuit to a signle-output. Finally, the second stage consists of a PMOS and NMOS transistors in a cascode topology. The circuit achieves consumption < 100μJ. The circuit is also tested and evaluated under different temperatures. 
+A complete transistor-level 2 Stage CMOS Miller Op-Amp design. The circuit receives a weak 1kHz sine with 1mV Amplitude, amplifies it with 106dB open loop gain  or 55.1dB negative feedback gain (600mV Amplitude, 1kΩ/300kΩ resistor Pair). A NMOS Current Mirror provides the circuit with 16μΑ. One additional Current Mirrors is used (PMOS), to convert the circuit to a signle-output. Finally, the second stage consists of a PMOS and NMOS transistors in a cascode topology. The circuit achieves consumption < 100μW. The circuit is also tested and evaluated under different temperatures. 
 
 All simulations and validations were performed in **LTspice**.
 
