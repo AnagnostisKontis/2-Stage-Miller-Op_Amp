@@ -28,8 +28,8 @@ All simulations and validations were performed in **LTspice**.
 |**Min2**| NMOS | 2u/1u |
 |**Mnref**| NMOS | 4u/1u |
 |**Mntail**| NMOS | 4u/1u |
-|**Mnmirror1**| PMOS | 4u/1u |
-|**Mnmirror2**| PMOS | 4u/1u |
+|**Mnmirror1**| NMOS | 4u/1u |
+|**Mnmirror2**| NMOS | 4u/1u |
 |**Mpout**| PMOS | 4u/1u |
 |**Mnout**| NMOS | 2u/1u |
 
